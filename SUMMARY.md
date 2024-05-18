@@ -1,6 +1,10 @@
 # Table of contents
 
+## General
+
 * [Getting started](README.md)
+* [Performance](general/performance.md)
+* [Motivations](general/motivations.md)
 
 ## Installation
 
