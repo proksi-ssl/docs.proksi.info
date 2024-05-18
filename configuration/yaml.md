@@ -17,7 +17,9 @@ Below you can find a file with the current defaults and&#x20;
 ```yaml
 # Description: Example configuration file for Proksi
 #
-# Proksi is a reverse proxy server that can be used to route incoming requests to different upstream servers based on the request's host, path, headers, and other attributes.
+# Proksi is a reverse proxy server that can be used to route incoming requests 
+# to different upstream servers based on the request's host, path, headers, and 
+# other attributes.
 #
 # This configuration file specifies the following settings:
 #
@@ -31,7 +33,8 @@ service_name: "proksi"
 # This can be adjusted based on the number of CPU cores available on the server.
 # The default value is 1.
 #
-# Note: Increasing the number of threads can improve the performance of the server, but it can also increase the memory usage.
+# Note: Increasing the number of threads can improve the performance of the server, 
+# but it can also increase the memory usage.
 #
 # Note 2: This only affect the HTTPS service, the HTTP service
 # (and other background services) is single threaded.
