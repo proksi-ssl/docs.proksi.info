@@ -1,5 +1,9 @@
 # Getting started
 
+{% embed url="https://asciinema.org/a/ORhG5Na2SHIBI8TH2mPPUHMVZ" %}
+
+***
+
 
 
 <div data-full-width="true">
